@@ -1,0 +1,46 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:800);
+body { 
+    background: #F3E2A9;
+    font-family: 'Open Sans', sans-serif; 
+}
+
+table {
+    margin: auto auto;
+}
+
+#PageTitle{
+    font-size: 32px;
+    color: #800000;
+}
+
+#TexasState{
+    top: 3px;
+}
+
+#Boko{
+    padding-top: 0px;
+}
+
+#Boko1{
+    padding-top: 25px;
+}
+
+#CS-TexasState{
+    padding-top: 25px;
+}
+
+#leftBody{
+    width: 400px;
+    border-right: 1px #800000 solid;
+}
+
+
+/*
+#SideBar{
+    top:0px;
+    left:0px;
+    width: 5vw; height: 100vh;
+    position: absolute;
+    background: url(Maroon.png) 0px 0px;
+}
+*/
